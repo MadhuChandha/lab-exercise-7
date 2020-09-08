@@ -6,10 +6,6 @@
 package labexercise7;
 import java.util.ArrayList;
 
-/**
- *
- * @author ARUMUGASAMY
- */
 public class array {
     public static void main(String[] args) {
         int i, j, sum=0;
